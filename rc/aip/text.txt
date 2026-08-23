@@ -1,0 +1,6 @@
+This is a text file that is an example!
+What a cool example of a text file.
+It's so amazing.
+There's another line of text here.
+And once more another line of text.
+We are learning so much Python!

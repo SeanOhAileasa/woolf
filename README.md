@@ -2,7 +2,9 @@
 
 # Artificial Intelligence
 
-## Udacity Institute of AI & Technology | Woolf (European Credit Transfer and Accumulation System)
+## Udacity Institute of AI & Technology | Woolf 
+
+### European Credit Transfer and Accumulation System
 
 The **Udacity Institute of AI & Technology** (**UIAT** - `Part of Accenture`) is a constituent member college of **Woolf**. 
 
